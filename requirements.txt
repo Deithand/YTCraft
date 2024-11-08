@@ -1,0 +1,6 @@
+customtkinter
+python-vlc
+yt-dlp
+beautifulsoup4
+requests
+pillow
